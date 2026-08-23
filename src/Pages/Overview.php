@@ -8,7 +8,6 @@ use Filament\Pages\Page;
 
 final class Overview extends Page
 {
-    protected static string $view = 'import-export-filament::overview';
+    protected string $view = 'import-export-filament::overview';
     protected static ?string $title = 'Import and Export';
 }
-

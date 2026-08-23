@@ -3,7 +3,7 @@
   "name": "import-export-filament",
   "display_name": "Import and Export Filament",
   "description": "Import and Export filament presentation adapter.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "presentation",
   "provider": "Liberu\\Foundation\\ImportExportFilament\\ImportExportFilamentServiceProvider",
   "requires": {
@@ -31,4 +31,3 @@
     }
   }
 }
-
